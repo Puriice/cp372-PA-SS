@@ -10,7 +10,7 @@ Analyze the relationship between sleep quality and various health and lifestyle 
 -   [Data Preparation](./src/Sleep_health_and_lifestyle.ipynb)
 -   [EDA Analysis](./docs/EDA.md)
 
-## Link to Tabeau Public Dashboard
+## Link to Tableau Public Dashboard
 
 -   [Dashboard]()
 
