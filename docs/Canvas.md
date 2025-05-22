@@ -20,10 +20,9 @@ To investigate factors influencing sleep to help individuals improve their sleep
 
 ## Questions /Hypothesis
 
--   Does physical activity level affect sleep quality?
--   Is there a relationship between stress and sleep disorders?
--   Are people with abnormal blood pressure more likely to have sleep issues?
--   Do certain occupations experience more sleep disorders?
+-   Does BMI related to Sleep disorder?
+-   Does quality of sleep affect sleep disorder?
+-   Which demographic has the most sleep disorder?
 
 ## Key Stakeholders
 
@@ -39,13 +38,6 @@ To investigate factors influencing sleep to help individuals improve their sleep
 -   Public health policymakers
 -   University students and researchers
 
-## Success Metrics
-
--   Number of insights generated from the analysis
--   Accuracy and clarity of visualizations
--   Positive feedback from target audience or stakeholders
--   Relevance and practicality of recommendations
-
 ## Resources/Tools
 
 -   Google Colab
@@ -55,6 +47,13 @@ To investigate factors influencing sleep to help individuals improve their sleep
 
 -   Unknown nationality
 -   Dataset size and variety may be limited
+
+## Success Metrics
+
+-   Number of insights generated from the analysis
+-   Accuracy and clarity of visualizations
+-   Positive feedback from target audience or stakeholders
+-   Relevance and practicality of recommendations
 
 ## Data Sources/Attributes
 
