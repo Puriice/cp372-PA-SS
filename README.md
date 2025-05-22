@@ -7,5 +7,5 @@ Analyze the relationship between sleep quality and various health and lifestyle 
 ## List of Contents
 
 -   [Project Canvas](./docs/Canvas.md)
--   [Data Preparation](./docs/Data%20Preparation.md)
+-   [Data Preparation](./src/Sleep_health_and_lifestyle.ipynb)
 -   [EDA Analysis](./docs/EDA.md)
