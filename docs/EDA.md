@@ -11,6 +11,7 @@
 ### Count of Sleep Disorder
 
 ![Count of Sleep Disorder](../assets/EDA/countOfSleepDisorder.png)
+![Count of Sleep Disorder categorized by BMI and Sleep Disorder](../assets/EDA/countOfSleepDisorderCategorizedByBMIAndSleepDisorder.png)
 
 ### BMI vs Sleep Disorder
 
