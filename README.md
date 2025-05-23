@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/orvile/health-and-sleep-relation-2024
 
 ## YouTube Video
 
--   [YouTube]()
+[![YouTube Video](https://img.youtube.com/vi/7_uNqSVH7dQ/0.jpg) <br/>Project Present CP372 Analytics and Business Intelligence_126_424](https://youtu.be/7_uNqSVH7dQ)
 
 ## Member Crews
 
