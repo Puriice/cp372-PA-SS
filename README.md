@@ -14,6 +14,7 @@ https://www.kaggle.com/datasets/orvile/health-and-sleep-relation-2024
 -   [Data Preparation](./src/Sleep_health_and_lifestyle.ipynb)
 -   [EDA Analysis](./docs/EDA.md)
 -   [In-Depth Analysis](./docs/indepthAnalysis.md)
+-   [Insights & Recommendations](./docs/insightsAndRecommendations.md)
 
 ## Link to Tableau Public Dashboard
 
