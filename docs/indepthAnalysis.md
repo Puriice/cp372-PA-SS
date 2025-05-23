@@ -197,13 +197,13 @@ However, the results were quite contradictory to the correlation values, so gend
 
 From the correlation values ​​of quality_of_sleep, it was found that the relationship values ​​between the variables can be grouped as follows:
 
-| Relationship pattern                                           | Range       | Variable                             | Interpret                                                                                          |
-| -------------------------------------------------------------- | ----------- | ------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| The two variables are highly and inversely related.            | [-1.0,-0.5) | ◦ heart_rate ◦ stress_level          | When sleep quality is good, heart_rate,stress_level values ​​are significantly lower.              |
-| The two variables are slightly and inversely related.          | [-5.0,-0.1] | ◦ diastolic ◦ systolic               | When sleep quality is good, diastolic,systolic values ​​will be slightly lower.                    |
-| The two variables are not related to each other.               | (-0.1,0.1)  | ◦ activity_sleep_ratio ◦ daily_steps | Cannot tell the relationship                                                                       |
-| The two variables are slightly related in the same direction.  | [0.1-0.5]   | ◦ physical_activity_level ◦ age      | When sleep quality is good, physical_activity_level, age values ​​are slightly higher.             |
-| The two variables are highly correlated in the same direction. | (0.5,1]     | ◦ sleep_duration ◦ sufficient_sleep  | When sleep quality is good, sleep_duration and sufficient_sleep values ​​are significantly higher. |
+| Relationship pattern                                           | Range       | Variable                                   | Interpret                                                                                          |
+| -------------------------------------------------------------- | ----------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| The two variables are highly and inversely related.            | [-1.0,-0.5) | ◦ heart_rate <br/> ◦ stress_level          | When sleep quality is good, heart_rate,stress_level values ​​are significantly lower.              |
+| The two variables are slightly and inversely related.          | [-5.0,-0.1] | ◦ diastolic <br/> ◦ systolic               | When sleep quality is good, diastolic,systolic values ​​will be slightly lower.                    |
+| The two variables are not related to each other.               | (-0.1,0.1)  | ◦ activity_sleep_ratio <br/> ◦ daily_steps | Cannot tell the relationship                                                                       |
+| The two variables are slightly related in the same direction.  | [0.1-0.5]   | ◦ physical_activity_level <br/> ◦ age      | When sleep quality is good, physical_activity_level, age values ​​are slightly higher.             |
+| The two variables are highly correlated in the same direction. | (0.5,1]     | ◦ sleep_duration <br/> ◦ sufficient_sleep  | When sleep quality is good, sleep_duration and sufficient_sleep values ​​are significantly higher. |
 
 In conclusion, which variable has the most impact on quality_of_sleep?
 
