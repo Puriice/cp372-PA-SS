@@ -20,11 +20,10 @@ To investigate factors influencing sleep to help individuals improve their sleep
 
 ## Questions /Hypothesis
 
--   Does BMI related to Sleep disorder?
--   Does quality of sleep affect sleep disorder?
--   Which demographic has the most sleep disorder?
--   Which variable has the most effect on quality of sleep?
--   What consideration to be good quality_of_sleep?
+1.  Which factor related to each sleep disorder?
+1.  Does quality of sleep related to sleep disorder?
+1.  Which demographic has the most sleep disorder?
+1.  Which variable has the most effect on quality of sleep? And what consideration to be good quality_of_sleep?
 
 ## Key Stakeholders
 
