@@ -12,7 +12,7 @@ Analyze the relationship between sleep quality and various health and lifestyle 
 
 ## SMART Objective
 
-Before the end of the year, enhance understanding of how lifestyle and health factors affect sleep quality to help individuals and healthcare providers make better decisions. Provide 3 actionable recommendations based on 5 insights from public health data using Python and Tableau. Address the growing concern of sleep-related issues linked to stress and work habits.
+Before the end of the year, enhance understanding of how lifestyle and health factors affect sleep quality to help individuals and healthcare providers make better decisions. Provide 5 actionable recommendations based on 6 insights from public health data using Python and Tableau. Address the growing concern of sleep-related issues linked to stress and work habits.
 
 ## Bussiness Objective
 
@@ -23,6 +23,8 @@ To investigate factors influencing sleep to help individuals improve their sleep
 -   Does BMI related to Sleep disorder?
 -   Does quality of sleep affect sleep disorder?
 -   Which demographic has the most sleep disorder?
+-   Which variable has the most effect on quality of sleep?
+-   What consideration to be good quality_of_sleep?
 
 ## Key Stakeholders
 
@@ -70,9 +72,25 @@ Dataset: https://shorturl.asia/T0ncG
 
 1. Data Preparation and calculating Correlation using Google Collab and export to csv
 2. Perform EDA Analysis in Tableau
+3. Trying to gain insight using visualization with Tableau
 
 ## Findings and Insights
 
+-   Good sleep quality is essential for reducing sleep disorders.
+-   Sleep quality requires sufficient rest, regular exercise, and managing stress factors.
+-   Body weight, physical activity and stress is highly effect for Insomnia.
+-   For Sleep Apnea, only body weight and physical activity have an affect to quality of sleep.
+-   People has higher risk of Insomenia if they are adult aged 31-45, particularly working in sales.
+-   Sleep Apnea is more common in middle-age 46-60, and those in the nursing profession
+
 ## Recommendation/Action and Impact
 
+-   **Individuals**: Improve sleep by reducing stress and seeking help.
+-   **Businesses**: Use insights for better services and marketing.
+-   **Government**: Support policy and public health improvements.
+-   **Companies**: Enhance employee well-being and retention.
+-   **Researchers**: Guide further studies on sleep and stress.
+
 ## Timeline
+
+![Project Timeline](../assets/timeline.png)
