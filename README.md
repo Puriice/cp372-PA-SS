@@ -9,7 +9,8 @@ Analyze the relationship between sleep quality and various health and lifestyle 
 https://www.kaggle.com/datasets/orvile/health-and-sleep-relation-2024
 
 ## Report
-[Full PDF Version Report](./docs/Report.pdf)
+[Full PDF Version Report](./docs/Report.pdf) <br/>
+[Google Doc](https://docs.google.com/document/d/1U_BT0k2L-0MuAd5GSJtzwkAKLzFMbxATIKzX5WZxMPI/edit?tab=t.6d6fxsh4klta#heading=h.7hkvddgk44s1)
 
 ## List of Contents
 
