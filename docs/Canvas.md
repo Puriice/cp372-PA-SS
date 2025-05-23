@@ -4,7 +4,7 @@
 
 ## Overview
 
-![Project canvas](../assets/canvas.jpg)
+![Project canvas](../assets/Canvas/canvas.jpg)
 
 ## Problem Statement
 
@@ -93,4 +93,4 @@ Dataset: https://shorturl.asia/T0ncG
 
 ## Timeline
 
-![Project Timeline](../assets/timeline.png)
+![Project Timeline](../assets/Canvas/timeline.png)

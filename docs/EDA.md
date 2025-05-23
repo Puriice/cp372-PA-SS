@@ -4,30 +4,30 @@
 
 ## Statistics
 
-![Statistics](../assets/statistics.png)
+![Statistics](../assets/EDA/statistics.png)
 
 ## Visualization
 
 ### Count of Sleep Disorder
 
-![Count of Sleep Disorder](../assets/countOfSleepDisorder.png)
+![Count of Sleep Disorder](../assets/EDA/countOfSleepDisorder.png)
 
 ### BMI vs Sleep Disorder
 
-![BMI vs Sleep Disorder](../assets/bmiVsSleepDisorder.png)
+![BMI vs Sleep Disorder](../assets/EDA/bmiVsSleepDisorder.png)
 
 ### Sleep Duration vs Quality of Sleep
 
-![Sleep Duration vs Quality of Sleep](../assets/sleepDurationVsQualityOfSleep.png)
+![Sleep Duration vs Quality of Sleep](../assets/EDA/sleepDurationVsQualityOfSleep.png)
 
 ### Sleep Quality by Gender
 
-![Sleep Quality by Gender](../assets/sleepQualityByGender.png)
+![Sleep Quality by Gender](../assets/EDA/sleepQualityByGender.png)
 
 ### Sleep Disorder by Age
 
-![Sleep Disorder by Age](../assets/sleepDisorderByAge.png)
+![Sleep Disorder by Age](../assets/EDA/sleepDisorderByAge.png)
 
 ### Sleep Disorder by Occupation
 
-![Sleep Disorder by Occupation](../assets/sleepDisorderByOccupation.png)
+![Sleep Disorder by Occupation](../assets/EDA/sleepDisorderByOccupation.png)
